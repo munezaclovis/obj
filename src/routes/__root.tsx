@@ -6,11 +6,6 @@ export const Route = createRootRoute({
     component: () => {
         return (
             <>
-                {/* <div className="bg-neutral-50 dark:bg-neutral-950">
-                    <Link to="/" activeOptions={{ exact: true }}>
-                        Home
-                    </Link>
-                </div> */}
                 <Outlet />
                 {/* <TanStackRouterDevtools /> */}
             </>
