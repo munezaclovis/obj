@@ -1,6 +1,6 @@
-# Tauri + React + Typescript
+# OBJ
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+Manage your s3 bucket's contents with ease
 
 ## Recommended IDE Setup
 
